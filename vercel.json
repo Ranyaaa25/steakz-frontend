@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://steakz-final.onrender.com/$1"
+    }
+  ]
+}
